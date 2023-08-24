@@ -3,6 +3,7 @@
 The purpose of this repository is to demonstrate the process of ETL (Extraction-Transformation-Loading) on a simple data set.
 We were given two excel files contacts.xlsx and crowdfunding.xlsx from which we created 4 cleaned data sets, category.csv,
 subcategory.csv, contacts.csv and campaign.csv which we then loaded to an sql database.
+The following is an ERD for the crowdingfunding_db. 
 
 <img width="515" alt="Screen Shot 2023-08-23 at 12 49 12 pm" src="https://github.com/JackHast/Crowdfunding_ETL/assets/131254350/bdadb0ff-530d-4eca-87a4-fa73b770ce3d">
 
