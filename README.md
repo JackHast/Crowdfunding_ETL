@@ -4,6 +4,8 @@ The purpose of this repository is to demonstrate the process of ETL (Extraction-
 We were given two excel files contacts.xlsx and crowdfunding.xlsx from which we created 4 cleaned data sets, category.csv,
 subcategory.csv, contacts.csv and campaign.csv which we then loaded to an sql database.
 
+<img width="515" alt="Screen Shot 2023-08-23 at 12 49 12 pm" src="https://github.com/JackHast/Crowdfunding_ETL/assets/131254350/bdadb0ff-530d-4eca-87a4-fa73b770ce3d">
+
 # Contents of Repository
 
 This repository contains two jupyter notebooks ETL_Mini_Project.ipynb and to_sql.ipynb. There are 4 csv files created from ETL_Mini_Project.ipynb
@@ -19,7 +21,7 @@ connect to 'crowdfunding_db' and then append the dataframes 'categories_df', 'su
 tables.
 In order for the notebook to connect with the database you've created you need to enter your Postgresql username, password and port in to_sql.ipynb,
 
-https://github.com/JackHast/Crowdfunding_ETL/blob/main/images/Screen%20Shot%202023-08-23%20at%2012.49.12%20pm.png
+<img width="864" alt="Screen Shot 2023-08-23 at 6 51 55 pm" src="https://github.com/JackHast/Crowdfunding_ETL/assets/131254350/1f40e386-1881-4323-a05a-ea0eabd4e686">
 
 The required libraries can be installed in your environment by running the following in your terminal/command-line,
 
