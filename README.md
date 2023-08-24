@@ -19,6 +19,7 @@ connect to 'crowdfunding_db' and then append the dataframes 'categories_df', 'su
 tables.
 In order for the notebook to connect with the database you've created you need to enter your Postgresql username, password and port in to_sql.ipynb,
 
+https://github.com/JackHast/Crowdfunding_ETL/blob/main/images/Screen%20Shot%202023-08-23%20at%2012.49.12%20pm.png
 
 The required libraries can be installed in your environment by running the following in your terminal/command-line,
 
